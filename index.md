@@ -25,7 +25,7 @@ alert("Button Clicked");
      <lable>User Name</lable> 	
      <input />
 <br> 
-	<lable>Password</lable> 
+	<lable> Password</lable> 
 	<input type="Password" />
 <br>
 	<button onClick="abcd()">Login</button> 
