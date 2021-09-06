@@ -1,37 +1,34 @@
-## Welcome to GitHub Pages
+<!doctype html>
+<html>
 
-You can use the [editor on GitHub](https://github.com/adityabi/Project-1/edit/main/index.md) to maintain and preview the content for your website in Markdown files.
+<head>
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+<title> This is Title </title>
 
-### Markdown
+<meta content="encoding" values="utf-8" >
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+<script> 
 
-```markdown
-Syntax highlighted code block
 
-# Header 1
-## Header 2
-### Header 3
 
-- Bulleted
-- List
+function abcd (){
 
-1. Numbered
-2. List
+alert("Button Clicked");
 
-**Bold** and _Italic_ and `Code` text
+}
 
-[Link](url) and ![Image](src)
-```
+</script>
 
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
+</head>
 
-### Jekyll Themes
+<body>
+     <lable>User Name</lable> 	
+     <input />
+<br> 
+	<lable>Password</lable> 
+	<input type="Password" />
+<br>
+	<button onClick="abcd()">Login</button> 
+</body>
 
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/adityabi/Project-1/settings/pages). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://docs.github.com/categories/github-pages-basics/) or [contact support](https://support.github.com/contact) and we’ll help you sort it out.
+</html>
